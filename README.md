@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![snake](https://raw.githubusercontent.com/KomaPlaton/KomaPlaton/output/github-contribution-grid-snake.svg)
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-tian-hub" /> </div>
+

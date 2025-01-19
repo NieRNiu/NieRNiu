@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![snake](https://raw.githubusercontent.com/KomaPlaton/KomaPlaton/output/github-contribution-grid-snake.svg)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={KomaPlaton}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KomaPlaton&theme=transparent&hide_border=true&layout=compact&langs_count=22" />

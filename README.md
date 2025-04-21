@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![snake](https://raw.githubusercontent.com/KomaPlaton/KomaPlaton/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/NieRNiu/NieRNiu/output/github-contribution-grid-snake.svg)
 
+### My GitHub Stats
+
+![NieRNiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=NieRNiu&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NieRNiu&layout=compact)

@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 ![snake](https://raw.githubusercontent.com/NieRNiu/NieRNiu/output/github-contribution-grid-snake.svg)
 
+- 🔭 I’m currently working on Vehicle state estimation under uncertain traffic 🚗, Unitree G1 simulation 🤖
+- 🌱 I’m currently learning C++, ROS2
+
 ### My GitHub Stats
 
 <!--![NieRNiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=NieRNiu&show_icons=true)-->

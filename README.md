@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ![snake](https://raw.githubusercontent.com/NieRNiu/NieRNiu/output/github-contribution-grid-snake.svg)
 
 - 🔭 I’m currently working on Autonomous systems and robotics
-                              - 🚗 Vehicle state estimation under uncertain traffic 🚗
-                              -  🤖 Unitree G1 simulation 🤖
+- 🚗 Vehicle state estimation under uncertain traffic 🚗
+-  🤖 Unitree G1 simulation 🤖
 - 🌱 I’m currently learning C++, ROS2
 
 ### My GitHub Stats

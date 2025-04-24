@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 <!--![NieRNiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=NieRNiu&show_icons=true)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NieRNiu&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com/?user=NieRNiu)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=NieRNiu)]

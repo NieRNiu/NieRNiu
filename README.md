@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Autonomous systems and robotics
 - 🚗 Vehicle estimation under uncertain traffic 🚗
 -  🤖 Humanoid  robtics Unitree G1 simulation 🤖
-- 🌱 I’m currently learning C++, ROS2
+- 🌱 I’m currently learning C++, ROS2, RL
 
 ### My GitHub Stats
 

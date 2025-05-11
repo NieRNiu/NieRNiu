@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -25,4 +26,4 @@ Here are some ideas to get you started:
 
 <!--![NieRNiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=NieRNiu&show_icons=true)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NieRNiu&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com/?user=NieRNiu)]
+![GitHub Streak](https://streak-stats.demolab.com/?user=NieRNiu)

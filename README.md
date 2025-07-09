@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 ![snake](https://raw.githubusercontent.com/NieRNiu/NieRNiu/output/github-contribution-grid-snake.svg)
 
 - 🔭 I’m currently working on prediction, decision-making, motion planning and cotrol for Autonomous systems and Robotics
 - 🚗 Vehicle estimation and prediction under uncertain traffic 🚗
 -  🤖 Humanoid  robtics Unitree G1 simulation 🤖
-- 🌱 I’m currently learning C++, ROS2, RL
+- 🌱 I’m currently learning C++, ROS2, RL, Optimization
 
 ### My GitHub Stats
 

@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on prediction, decision-making, motion planning and cotrol for Autonomous systems and Robotics
 - 🚗 Vehicle estimation and prediction under uncertain traffic 🚗
--  🤖 Humanoid  robtics Unitree G1 simulation 🤖
+-  🤖 ⚽️ Humanoid  robtics Unitree G1 simulation robocup football project ⚽️ 
+-  🦾 Robot arm grasping and maniplation 🦾 🤖
 - 🌱 I’m currently learning C++, ROS2, RL, Optimization
 
 ### My GitHub Stats

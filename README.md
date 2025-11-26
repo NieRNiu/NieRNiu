@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 -  🤖 ⚽️ Humanoid  robtics Unitree G1 simulation robocup football project ⚽️ 
 -  🦾 Robot arm grasping and manipulation 🦾 🤖
 - 🌱 I’m currently learning C++, ROS2, RL, Optimization
+- 🚁 Flight control and planning
 
 ### My GitHub Stats
 

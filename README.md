@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 -->
 ![snake](https://raw.githubusercontent.com/NieRNiu/NieRNiu/output/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on prediction, decision-making, motion planning and cotrol for Autonomous systems and Robotics
+- 🔭 I’m currently working on prediction, decision-making, motion planning and control for Autonomous systems and Robotics
 - 🚗 Vehicle estimation and prediction under uncertain traffic 🚗
 -  🤖 ⚽️ Humanoid  robtics Unitree G1 simulation robocup football project ⚽️ 
 -  🦾 Robot arm grasping and manipulation 🦾 🤖
 - 🌱 I’m currently learning C++, ROS2, RL, Optimization
-- 🚁 Flight control and planning
+
 
 ### My GitHub Stats
 
